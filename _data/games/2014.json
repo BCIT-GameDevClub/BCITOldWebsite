@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Cluck",
+        "img":   "/img/cluck.png",
+        "desc":  "Sacrifice the chickens to appease their tempestuous god.",
+        "link":  "https://github.com/LamePancake/Cluck"
+    },
+
+    {
+        "title": "Blood Loss",
+        "img":   "/img/bloodloss.png",
+        "desc":  "Navigate through the maze before you bleed out. Or get eaten...",
+        "link":  "http://danielrussell.ca/games/2014/05/26/game-BL/"
+    },
+
+    {
+        "title": "Enum",
+        "img":   "/img/enum.png",
+        "desc":  "Forget everything you know about math for a while.",
+        "link":  "http://gamejolt.com/games/enum/28108"
+    }
+]
