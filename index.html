@@ -3,22 +3,20 @@ layout: default
 ---
 
 <div class="header-bar">
-  <h1>*folio</h1>
+  <h1>BCIT <small>Game Development Club</small></h1>
   <h2>simple whitespace theme</h2>
   <br/>
   <hr>
   <br/>
 </div>
 
+<p>
+Formed in 1776, BCIT's Game Development Club is a space where creative people get together and
+explore the medium. The Club's events and activities are open to anyone interested in making games.
+</p>
 
-<ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <p>{{ post.description }}</p>
-        <br/>
-        <hr/>
-      </li>
-    {% endfor %}
-</ul>
+<h3>Weekly Meetings</h3>
+<p>Ever Wednesday members of the club meetup to discuss games, work on projects, playtest and get feedback from others.</p>
+
+<h3>Game Jam</h3>
+<p>(details coming soon)</p>
