@@ -32,7 +32,7 @@
 
     .page-link{
         line-height: $base-line-height;
-        
+
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 10px;
@@ -181,7 +181,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-    margin-bottom: 0px; 
+    margin-bottom: 0px;
 }
 
 .post-link {
@@ -201,7 +201,7 @@
 }
 
 
-/** 
+/**
  * Portfolio grid
  * NOTE: Some of the logic here relies on the fact that images are 256x256. For a different solution that
  * may not preserve images in the way you want them, see the original theme at https://github.com/bogoli/-folio.
@@ -253,6 +253,14 @@
 }
 
 /**
+* MailChimp
+*/
+
+#mc_embed_signup {
+    margin-top: 8em;
+}
+
+/**
  * Simple accordion (found here: http://uniondesign.ca/simple-accordion-without-jquery-ui/)
  */
 
@@ -274,7 +282,7 @@
 }
 
 
-/** 
+/**
  * Portfolio pages.
  */
 .blankbox{
@@ -287,7 +295,7 @@
     box-sizing:border-box;
     padding: $img_spacing;
 }
-.col{ 
+.col{
     width: 100%;
     height: 100%;
     float: left;

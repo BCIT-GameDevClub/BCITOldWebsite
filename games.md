@@ -13,7 +13,7 @@ permalink: /games/
         <div class="project">
             <div class="project-contents">
                 <a href="{{ game.link }}" target="_blank">{{ game.title }}</a>
-                <img class="thumbnail" src="{{ game.img }}"/>  
+                <img class="thumbnail" src="{{ game.img }}"/>
                 <p>{{ game.desc }}</p>
             </div>
         </div>
