@@ -226,7 +226,8 @@
         height: auto;
     }
 
-    float: left;
+    display: inline-block;
+    vertical-align: top;
     padding: 10px;
     background-color: #EEE;
     margin: 10px 10px 0px 0px;
@@ -279,7 +280,6 @@
     display: block;
 }
 
-
 /**
  * Portfolio pages.
  */
@@ -305,7 +305,7 @@
     float: right;
 }
 .one {
-    width:33.33%;
+    width: 33.33%;
 }
 .two {
     width: 66.66%;
