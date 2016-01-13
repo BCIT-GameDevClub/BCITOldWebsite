@@ -252,17 +252,19 @@
 }
 
 /**
-* MailChimp
-*/
-
+ * MailChimp sign-up form.
+ */
 #mc_embed_signup {
     margin-top: 8em;
+    background: #fff;
+    clear: left;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
 }
 
 /**
  * Simple accordion (found here: http://uniondesign.ca/simple-accordion-without-jquery-ui/)
  */
-
 .accordion-toggle {
     cursor: pointer;
     width: 100%;
