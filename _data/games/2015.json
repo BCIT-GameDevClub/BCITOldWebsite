@@ -12,4 +12,11 @@
         "desc":  "Guide Rainbow through a series of tests with your handy drugs.",
         "link":  "http://gamejolt.com/games/rainbow-injection/88494"
     },
+
+    {
+        "title": "PARROTGAME",
+        "img":   "/img/parrotgame.png",
+        "desc":  "Survive the battlefield and deliver your message as a wartime courier parrot.",
+        "link":  "http://xcvg.itch.io/parrotgame"
+    },
 ]
