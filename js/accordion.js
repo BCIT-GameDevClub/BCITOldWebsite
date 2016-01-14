@@ -5,7 +5,7 @@ $(document).ready(function($) {
 
     // Make the contents of the first toggle visible by default
     toggles.first().next('.accordion-content').addClass('default');
-    toggles.first().find('.accordion-indicator').text('\u229D');
+    toggles.first().find('.accordion-indicator').text('\u23F7');
 
     // Add a method to expand the panel on click    
     toggles.click(function(){
@@ -15,7 +15,7 @@ $(document).ready(function($) {
         // Note: '\u229D' is the "circled dash" symbol and '\u2295' is the "circled plus" symbol
         // See http://unicode-table.com/en/#2295
         var indicatorChar = $(this).find('.accordion-indicator').text();
-        indicatorChar = indicatorChar == '\u2295' ? '\u229D' : '\u2295';
+        indicatorChar = indicatorChar == '\u23F4' ? '\u23F7' : '\u23F4';
         $(this).find('.accordion-indicator').text(indicatorChar);
     });
 });

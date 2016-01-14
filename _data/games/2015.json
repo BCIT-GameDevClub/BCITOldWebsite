@@ -5,25 +5,11 @@
         "desc":  "After being trapped in a cave and wielding only a knife, you must make your way home.",
         "link":  "http://loner-dev.itch.io/mini-quest"
     },
-    
-    {
-        "title": "The Starscape Shimmer",
-        "img":   "/img/starscape.png",
-        "desc":  "Explore an old theatre to unravel a mysterious disappearance.",
-        "link":  "https://github.com/LamePancake/The-Starscape-Shimmer"
-    },
 
     {
         "title": "Rainbow Injection",
         "img":   "/img/rainbow.png",
         "desc":  "Guide Rainbow through a series of tests with your handy drugs.",
         "link":  "http://gamejolt.com/games/rainbow-injection/88494"
-    },
-
-    {
-        "title": "Viking XII",
-        "img":   "/img/viking12.png",
-        "desc":  "Battle a friend in this Viking vs Alien showdown.",
-        "link":  "https://github.com/LamePancake/VikingXII"
     },
 ]

@@ -263,7 +263,7 @@
 }
 
 /**
- * Simple accordion (found here: http://uniondesign.ca/simple-accordion-without-jquery-ui/)
+ * Style for a simple accordion (http://uniondesign.ca/simple-accordion-without-jquery-ui/)
  */
 .accordion-toggle {
     cursor: pointer;
@@ -271,6 +271,8 @@
     float: left;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $grey-color-light;
 }
 
 .accordion-content {
@@ -321,4 +323,37 @@
     text-align: center;
     vertical-align: middle;
     font-size: $caption_font_size;
+}
+
+/**
+ * Styles for the resources page.
+ */
+
+.resources h3 {
+    font-variant: small-caps;
+}
+
+.resources h4{
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.resources h5 {
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.resources ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.resources ul > li:before {
+    content: '\25C7';
+    margin-right: 1em;
+}
+
+.resources .accordion-content {
+    padding-left: 1em;
 }
