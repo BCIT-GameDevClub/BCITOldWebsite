@@ -33,7 +33,7 @@ permalink: /resources/
             <li><a href="https://www.scirra.com/construct2">Construct 2</a></li>  
             <li><a href="http://www.stencyl.com/">Stencyl</a></li>  
             <li><a href="http://twinery.org/">Twine</a></li>
-            <li><a href="www.yoyogames.com/studio">Game Maker</a></li>
+            <li><a href="http://www.yoyogames.com/studio">Game Maker</a></li>
         </ul>
 
         <h5>Programming Required</h5>
