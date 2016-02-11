@@ -6,7 +6,7 @@ permalink: /resources/
 <p>Here you'll find a collection of engines and frameworks for making games, sites for finding game assets and a number of tools for creating and editing your own, and some tutorials and helpful links.</p>
 
 <div class="accordion resources">
-    <h3 class="accordion-toggle"><span class="accordion-indicator">&#9204;</span> Assets</h3>
+    <h3 class="accordion-toggle"><span class="accordion-indicator">+</span> Assets</h3>
     <div class="accordion-content">
         <h4>Audio</h4>
         <ul>
@@ -25,7 +25,7 @@ permalink: /resources/
         </ul>
     </div>
 
-    <h3 class="accordion-toggle"><span class="accordion-indicator">&#9204;</span> Tools</h3>
+    <h3 class="accordion-toggle"><span class="accordion-indicator">+</span> Tools</h3>
     <div class="accordion-content">
         <h4>Engines & Frameworks</h4>
         <h5>No Programming Required</h5>
@@ -90,7 +90,7 @@ permalink: /resources/
         </ul>
     </div>
 
-    <h3 class="accordion-toggle"><span class="accordion-indicator">&#9204;</span> Tutorials</h3>
+    <h3 class="accordion-toggle"><span class="accordion-indicator">+</span> Tutorials</h3>
     <div class="accordion-content">
         <p>Tutorials are often made with certain tools in mind so when choosing an Engine, Framework, etc. It’s usually best to
            check out its community and see how many tutorials exist for it before committing to learning it.</p>
