@@ -1,5 +1,12 @@
 [
     {
+        "title": "Totem God",
+        "img":   "/img/totemgod.png",
+        "desc":  "Collect all 3 sacrificial items needed to complete the ritual to enter God Mode and annihilate the other players!",
+        "link":  "http://globalgamejam.org/2016/games/totem-god"
+    },
+    
+    {
         "title": "Why Not Summon a Human",
         "img":   "/img/wnsah.png",
         "desc":  "A group of party daemons do a summoning dance in search of wisdom.",
