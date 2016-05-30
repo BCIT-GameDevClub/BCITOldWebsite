@@ -1,7 +1,7 @@
 [
     {
         "title": "Totem God",
-        "img":   "/img/totemgod.png",
+        "img":   "totemgod.png",
         "desc":  "Collect all 3 sacrificial items needed to complete the ritual to enter God Mode and annihilate the other players!",
         "link":  "http://globalgamejam.org/2016/games/totem-god"
     },
@@ -22,7 +22,7 @@
     
     {
         "title": "CyberShield",
-        "img":   "/img/cybershield.png",
+        "img":   "cybershield.png",
         "desc":  "A retro, arcade-style 3D shooter that blends elements of classic and modern games.",
         "link":  "https://xcvg.itch.io/cybershield"
     }
