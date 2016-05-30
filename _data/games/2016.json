@@ -1,14 +1,14 @@
 [
     {
         "title": "Why Not Summon a Human",
-        "img":   "/img/wnsah.png",
+        "img":   "wnsah.png",
         "desc":  "A group of party daemons do a summoning dance in search of wisdom.",
         "link":  "https://funintentions.itch.io/why-not-summon-a-human"
     },
     
     {
         "title": "Firefighter Simulator 2016",
-        "img":   "/img/fs2016.png",
+        "img":   "fs2016.png",
         "desc":  "State-of-the art technology to bring serious firefighter simulation to everyone.",
         "link":  "https://xcvg.itch.io/fs2016"
     }
