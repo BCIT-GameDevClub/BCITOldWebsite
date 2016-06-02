@@ -4,14 +4,17 @@
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
-    background-color: #fff;
-    opacity: 0.75;
+    background-color: $brand-color;
+    opacity: 0.9;
     position:fixed;
     left:0px;
     top:0px;
     height:56px;
     width:100%;
     z-index: 50;
+    @include media-query($on-palm) {
+        position: relative;
+    }
 }
 
 .site-title {
@@ -39,6 +42,7 @@
         }
     }
 
+    /*
     @include media-query($on-palm) {
         position: fixed;
         top: 0px;
@@ -54,6 +58,7 @@
             display: line;
         }
     }
+    */
 }
 
 .header-bar {
@@ -92,6 +97,9 @@
     bottom:0px;
     height:50px;
     width:100%;
+    @include media-query($on-palm) {
+        position: relative;
+    }
 }
 .icons {
     padding: 10px;
