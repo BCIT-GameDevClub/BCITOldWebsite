@@ -253,7 +253,7 @@ i {
     display: inline-block;
     vertical-align: top;
     padding: 10px;
-    background-color: #EEE;
+    background-color: $grey-color-light;
     margin: 10px 10px 0px 0px;
     box-sizing: border-box;
 }
@@ -265,9 +265,14 @@ i {
 
 .project-contents > p {
     margin: 5px 0px 0px 0px;
+    height: 8em;
+    @include media-query($on-palm) {
+        height: auto;
+    }
 }
 
 .project-contents .thumbnail {
+    margin: 10px auto;
     width: 100%;
     height: auto;
     max-width: 600px;
