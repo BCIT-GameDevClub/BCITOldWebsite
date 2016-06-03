@@ -385,3 +385,13 @@ i {
 .resources .accordion-content {
     padding-left: 1em;
 }
+
+/**
+ * New GDC stuff because honestly I'm not sure what they did.
+ */
+
+.gdc-logo {
+    margin: inherit auto;
+    width: 100%;
+    height: auto;
+}
