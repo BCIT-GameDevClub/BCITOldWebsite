@@ -72,7 +72,6 @@
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
     width: 100%;
     text-align: center;
     padding-top: 25px;
@@ -92,9 +91,9 @@
  * Site footer  **********************************************************
  */
 .site-footer {
-    border-top: 1px solid $grey-color-dark;
+    border-top: 1px solid $grey-color-light;
     font-size: 10px;
-    background-color: $grey-color-dark;
+    background-color: $grey-color;
     padding: 2px;
     color: #aaa;
     position:fixed;
