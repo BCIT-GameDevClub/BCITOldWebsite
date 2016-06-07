@@ -4,7 +4,7 @@
         "img":   "totemgod.png",
         "desc":  "Collect all 3 sacrificial items needed to complete the ritual to enter God Mode and annihilate the other players!",
         "link":  "http://globalgamejam.org/2016/games/totem-god",
-        "icons": ["platform-windows","platform-html"]
+        "icons": ["platform-windows","platform-html","platform-plugin"]
     },
     
     {
