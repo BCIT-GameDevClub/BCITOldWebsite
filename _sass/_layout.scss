@@ -283,6 +283,20 @@
     }
 }
 
+.project-icons {
+    width: 100%;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+}
+
+.project-icons > img {
+    width: auto;
+    height: 32px;
+    padding: 0;
+    margin: 0 4px 0 0;
+}
+
 .project-contents .thumbnail {
     margin: 10px auto;
     width: 100%;
