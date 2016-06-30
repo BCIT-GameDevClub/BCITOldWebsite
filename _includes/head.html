@@ -5,7 +5,7 @@
 
     <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}"/>
-
+   
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
     <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.baseurl }}/android-icon-192x192.png">
@@ -16,8 +16,8 @@
     
     <!-- This gross hack here loads the slider for only the home page. -->
     {% if page.title %} {% else %}
-        <link href="{{ site.baseurl }}/css/flexslider.css" rel="stylesheet" type="text/css"/>
-        <script src="{{ site.baseurl }}/js/jquery.flexslider-min.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/flexslider.css"/>
+        <script src="{{ site.baseurl }}/js/jquery.flexslider.js" type="text/javascript"></script>
     {% endif %}
     
 </head>
