@@ -90,11 +90,14 @@ html[xmlns] .flexslider .slides {
   zoom: 1;
 }
 .flexslider .slides img {
-  height: auto;
+  height: 480px;
+  width: auto;
+  margin: auto;
   -moz-user-select: none;
 }
 .flex-viewport {
   max-height: 2000px;
+  background-color: #46a2d1;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -ms-transition: all 1s ease;
