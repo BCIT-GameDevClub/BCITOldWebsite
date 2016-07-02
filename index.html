@@ -11,6 +11,24 @@ title:
 Formed in 2011, BCIT's Game Development Club is a space where creative people get together and explore the medium. The Club's events and activities are open to anyone interested in making games.
 </p>
 
+<div class="flexslider gdc-slider">
+  <ul class="slides">
+      <!-- I think this could be automated with an iterator -->
+    <li>
+      <img src="{{ site.baseurl }}/img/slider/slide1.jpg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/img/slider/slide2.jpg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/img/slider/slide3.jpg" />
+    </li>
+    <li>
+      <img src="{{ site.baseurl }}/img/slider/slide4.jpg" />
+    </li>
+  </ul>
+</div>
+
 <h3>Weekly Meetings</h3>
 <p>Every Wednesday, we meet in SE12-310 from 3:30 to 4:30 to discuss games, work on projects, playtest and get feedback from others.</p>
 
@@ -61,3 +79,12 @@ Formed in 2011, BCIT's Game Development Club is a space where creative people ge
     var $mcj = jQuery.noConflict(true);
 </script>
 <!--End mc_embed_signup-->
+
+
+<script type='text/javascript'>
+    $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "slide"
+    });
+  });
+</script>
