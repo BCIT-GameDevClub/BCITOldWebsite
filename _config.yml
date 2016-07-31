@@ -9,6 +9,7 @@ twitter_username: twitter_username
 github_username:  github_username
 facebook: https://www.facebook.com/groups/186612611443626/
 github: https://github.com/BCIT-GameDevClub/BCIT-GameDevClub.github.io
+gitter: https://gitter.im/BCIT-GameDevClub/BCIT-GameDevClub
 
 # Build settings
 markdown: kramdown
