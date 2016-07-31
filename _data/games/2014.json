@@ -1,8 +1,9 @@
 [
     {
         "title": "Enum",
-        "img":   "/img/enum.png",
+        "img":   "enum.png",
         "desc":  "Forget everything you know about math for a while.",
-        "link":  "http://gamejolt.com/games/enum/28108"
+        "link":  "http://gamejolt.com/games/enum/28108",
+        "icons": ["platform-plugin"]
     }
 ]
