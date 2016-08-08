@@ -1,6 +1,6 @@
 # Site settings
 title: BCIT Game Dev Club
-email: you@example.com
+email: bcitgamesdevclub@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   building worlds
 baseurl:  # the subpath of your site, e.g. /blog/
