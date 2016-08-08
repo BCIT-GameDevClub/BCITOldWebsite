@@ -4,7 +4,7 @@
         "img":   "miniquest.png",
         "desc":  "After being trapped in a cave and wielding only a knife, you must make your way home.",
         "link":  "http://loner-dev.itch.io/mini-quest",
-        "icons": ["platform-html"]
+        "icons": ["platform-html","platform-ios"]
     },
 
     {
@@ -20,6 +20,6 @@
         "img":   "parrotgame.png",
         "desc":  "Survive the battlefield and deliver your message as a wartime courier parrot.",
         "link":  "http://xcvg.itch.io/parrotgame",
-        "icons": ["platform-windows","platform-mac","platform-linux"]
+        "icons": ["platform-windows","platform-mac","platform-linux","prop-foss"]
     }
 ]
