@@ -434,6 +434,7 @@
 .gdc-fineprint {
     text-align: center;
     font-size: 0.75em;
+    line-height: 1em;
 }
 
 .gdc-resources-toplevel {
@@ -443,3 +444,32 @@
 .gdc-resources-toplevel li > a {
     font-weight: bold;
 } 
+
+.gdc-frontpage-text {
+    font-size: 1.25em;
+}
+
+.gdc-frontpage-contentbox {
+    
+}
+
+.gdc-frontpage-contentbox > h1 {
+    margin-bottom: 0;
+}
+
+.gdc-frontpage-contentbox > h2 {
+    margin-top: 1em;
+}
+
+.gdc-frontpage-contentbox p {
+    margin-bottom: 0;
+}
+
+#mc_embed_signup {
+    margin-top: 4em;
+}
+
+.gdc-aboutpage > h2 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
