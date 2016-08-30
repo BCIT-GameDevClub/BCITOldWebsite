@@ -1,22 +1,25 @@
 [
     {
         "title": "Mini Quest",
-        "img":   "/img/miniquest.png",
+        "img":   "miniquest.png",
         "desc":  "After being trapped in a cave and wielding only a knife, you must make your way home.",
-        "link":  "http://loner-dev.itch.io/mini-quest"
+        "link":  "http://loner-dev.itch.io/mini-quest",
+        "icons": ["platform-html","platform-ios"]
     },
 
     {
         "title": "Rainbow Injection",
-        "img":   "/img/rainbow.png",
+        "img":   "rainbow.png",
         "desc":  "Guide Rainbow through a series of tests with your handy drugs.",
-        "link":  "http://gamejolt.com/games/rainbow-injection/88494"
+        "link":  "http://gamejolt.com/games/rainbow-injection/88494",
+        "icons": ["platform-windows","platform-mac","platform-linux"]
     },
 
     {
         "title": "PARROTGAME",
-        "img":   "/img/parrotgame.png",
+        "img":   "parrotgame.png",
         "desc":  "Survive the battlefield and deliver your message as a wartime courier parrot.",
-        "link":  "http://xcvg.itch.io/parrotgame"
-    },
+        "link":  "http://xcvg.itch.io/parrotgame",
+        "icons": ["platform-windows","platform-mac","platform-linux","prop-foss"]
+    }
 ]

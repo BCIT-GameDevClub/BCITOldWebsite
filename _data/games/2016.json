@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Totem God",
+        "img":   "totemgod.png",
+        "desc":  "Collect all 3 sacrificial items needed to complete the ritual to enter God Mode and annihilate the other players!",
+        "link":  "http://globalgamejam.org/2016/games/totem-god",
+        "icons": ["platform-windows","platform-html","platform-plugin"]
+    },
+    
+    {
+        "title": "Why Not Summon a Human",
+        "img":   "wnsah.png",
+        "desc":  "A group of party daemons do a summoning dance in search of wisdom.",
+        "link":  "https://funintentions.itch.io/why-not-summon-a-human",
+        "icons": ["platform-html"]
+    },
+    
+    {
+        "title": "Firefighter Simulator 2016",
+        "img":   "fs2016.png",
+        "desc":  "State-of-the art technology to bring serious firefighter simulation to everyone.",
+        "link":  "https://xcvg.itch.io/fs2016",
+        "icons": ["platform-windows"]
+    },
+    
+    {
+        "title": "CyberShield",
+        "img":   "cybershield.png",
+        "desc":  "A retro, arcade-style 3D shooter that blends elements of classic and modern games.",
+        "link":  "https://xcvg.itch.io/cybershield",
+        "icons": ["platform-windows"]
+    }
+]
