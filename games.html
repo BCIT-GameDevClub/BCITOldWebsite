@@ -5,7 +5,7 @@ permalink: /games/
 ---
 
 <div class="accordion">
-    {% for games_hash in site.data.games reversed %}
+    {% for games_hash in site.data.games reversed | sort: games_hash[0] %}
     <h3 class="accordion-toggle"><span class="accordion-indicator">+</span> {{ games_hash[0] }}</h3>
     <div class="accordion-content">
         {% assign games = games_hash[1] %}
